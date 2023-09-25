@@ -5,4 +5,4 @@ A Machine Learning internship at Growintern and the successful completion of thi
 ## Internship Tasks
 1. **Task 1**  - Stock price prediction.
 2. **Task 2**  - Car Price Predictor.
-3. **Task 3**  - Handwritten Digit Recognition. 
+3. **Task 3**  - *Handwritten Digit Recognition.*
